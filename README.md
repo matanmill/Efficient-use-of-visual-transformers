@@ -7,12 +7,10 @@ This includes 2 jupyter notebooks to run on kaggle.
 # How to run
 simply download the notebook and run it on kaggle.
 to do so you will need to access the validation dataset we have prepared manually.
-
 [1]: https://www.kaggle.com/datasets/matanmillionshik/imagenet-val "ImageNet-1k validation set"
 
 # Prepare the dataset on your own
 To access IMageNet validation set you will need to create a user and download it from the officail imagenet website.
-
 [2]: https://image-net.org/ "ImageNet"
 
 Download the validation set locally to your PC, all other needed files are in the '/datafiles' folder.
