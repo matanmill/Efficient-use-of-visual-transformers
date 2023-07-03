@@ -24,5 +24,5 @@ To prepare the dataset simply download the repository to your local machine and 
 2. If you see unmatching labels - it means you didn't use 'Dataset.py' correctly, and the labels are still used according to the official
 dictionary instead of the one ViT creators used.
 3. If you encounter problems during quantization - sorry :(
-4. If you encounter problems during speeding up inference, try using huggingface's 'imagenet-1k' instead.
+4. If you encounter a problem with loading huggingface's 'imagenet-1k' try using our validation set instead.
 
